@@ -1,0 +1,23 @@
+{
+    "name": "vendor/asd",
+    "description": "my gittest project",
+    "type": "1",
+    "require": {
+       
+    },
+    "license": "mit",
+    "authors": [
+        {
+            "name": "test",
+            "email": "test@git.te"
+        }
+    ],
+    "minimum-stability": "dev",
+    "repositories": [
+        {
+            "type": "composer",
+            "url": "https://asset-packagist.org"
+        }
+    ]
+
+}
