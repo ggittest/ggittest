@@ -1,9 +1,8 @@
 {
-    "name": "vendor/asd",
+    "name": "ggittest/public",
     "description": "my gittest project",
     "type": "1",
     "require": {
-       
     },
     "license": "mit",
     "authors": [
